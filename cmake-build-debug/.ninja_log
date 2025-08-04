@@ -1,0 +1,8 @@
+# ninja log v6
+7	1357	7716734450349539	CMakeFiles/bank.dir/main.cpp.obj	bf3570e5eabe600a
+1358	1633	7716734463849647	bank.exe	c5beed196612145
+12	1282	7716730884865436	CMakeFiles/bank.dir/database.cpp.obj	96df1b0bafc22486
+2	369	7759300011809186	build.ninja	5bb35d402c1b7e5a
+17	746	7716730884929216	CMakeFiles/bank.dir/transaction.cpp.obj	55fe21e9b6b5c8ab
+43	707	7716728545641855	CMakeFiles/bank.dir/utils.cpp.obj	58776e673b156604
+32	708	7716728545528419	CMakeFiles/bank.dir/account.cpp.obj	df802d8ba98b1fc7
